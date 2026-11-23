@@ -1,0 +1,12 @@
+{
+    "url": "",
+    "endpoints": {
+        "register": "/register",
+        "login": "/login",
+        "logout": "/logout",
+        "movies": "/movies",
+        "movieDetails": "/movies/details/:id",
+        "addMovie": "/movies/addMovie",
+        "editMovie": "/movies/editMovie/:id"
+    }
+}

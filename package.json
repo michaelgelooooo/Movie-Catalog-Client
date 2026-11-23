@@ -1,0 +1,25 @@
+{
+  "name": "activity",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.21.1",
+    "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.2",
+    "bootswatch": "^5.3.8",
+    "notyf": "^3.10.0",
+    "pinia": "^4.1.0",
+    "vue": "^3.5.46",
+    "vue-router": "^5.5.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.10",
+    "vite": "^8.3.6"
+  }
+}
