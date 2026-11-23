@@ -1,5 +1,5 @@
 {
-    "url": "",
+    "url": "https://ochengco-b645-movie-catalog.vercel.app/",
     "endpoints": {
         "register": "/register",
         "login": "/login",
